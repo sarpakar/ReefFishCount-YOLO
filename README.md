@@ -3,7 +3,7 @@
 Real-time fish detection and counting system for coral reef environments using YOLOv8.
 
 ## Project Overview
-This repository contains the implementation of an automated fish counting system designed for coral reef monitoring. The system utilizes YOLOv8 architecture optimized for underwater environments, developed as part of the JBG060 Data Challenge 3 Course at Tu/e Eindhoven collaborating with Fruitpunch.ai
+This repository contains the implementation of an automated fish counting system designed for coral reef monitoring. The system utilizes YOLOv8 architecture optimized for underwater environments, developed as part of the JBG060 Data Challenge 3 Course at TU/e Eindhoven collaborating with Fruitpunch.ai
 
 ## Requirements
 ```python
@@ -17,7 +17,7 @@ numpy >= 1.19.5
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/CoralFishNet-YOLO.git
+git clone https://github.com/sarpakar/CoralFishNet-YOLO.git
 cd CoralFishNet-YOLO
 pip install -r requirements.txt
 ```
