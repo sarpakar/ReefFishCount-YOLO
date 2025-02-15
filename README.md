@@ -3,7 +3,7 @@
 Real-time fish detection and counting system for coral reef environments using YOLOv8.
 
 ## Project Overview
-This repository contains the implementation of an automated fish counting system designed for coral reef monitoring. The system utilizes YOLOv8 architecture optimized for underwater environments, developed as part of the JBG060 Data Challenge 3 with the collaboration with Fruitpunch.ai at TU Eindhoven.
+This repository contains the implementation of an automated fish counting system designed for coral reef monitoring. The system utilizes YOLOv8 architecture optimized for underwater environments, developed as part of the JBG060 Data Challenge 3 Course at Tu/e Eindhoven collaborating with Fruitpunch.ai
 
 ## Requirements
 ```python
